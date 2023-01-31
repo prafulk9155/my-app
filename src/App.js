@@ -1,5 +1,5 @@
 import close_eye from './images/close_eye.png';
-import  from './images/close_eye.png';
+// import  from './images/close_eye.png';
 import './App.css';
 
 function App() {
